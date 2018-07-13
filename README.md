@@ -1,2 +1,1 @@
-# pss
-UI for PSS
+# PrepShopAndSave
